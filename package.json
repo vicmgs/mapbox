@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vicmgs/mapbox#readme",
   "dependencies": {
+    "mapbox-gl": "^0.44.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "webpack": "^3.11.0",
